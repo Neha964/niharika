@@ -1,4 +1,4 @@
 # niharika
 this is my first repository
 <br>
-author-sagarika muni
+author-sagarika mun
